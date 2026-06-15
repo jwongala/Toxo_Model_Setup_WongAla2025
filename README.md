@@ -1,4 +1,3 @@
-README.md
 This repository contains the required scripts and data to run and analyze the output for the publication titled "Differences in connectivity and transport of Toxoplasma gondii in marine environments due to sensitivity in model setup"
 
 The folders are:
@@ -10,3 +9,5 @@ The folders are:
 - shp_rdata: polygons of the regions/islands used in the analyses as rdata files
 - DATA_ch1: link to files 
   - Google Drive: https://drive.google.com/drive/folders/1_Wy2attrph8vo8hMS5tompfbRSF58xaY?usp=sharing
+- ROMS: The ROMS files can be found at the below website. For the years 2018-2021, you will need to contact PACIOOS.
+  - https://www.pacioos.hawaii.edu/data/search-results/?text=roms
