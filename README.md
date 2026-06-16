@@ -7,7 +7,7 @@ The folders are:
   - MHI_Bounce_TOOTS_Parcels.py: scripts without nesting to simulate particle transport
   - OSS_Bounce_TOOTS_Parcels.py: scripts with nesting of OSS ROMS to simulate particle transport 
 - shp_rdata: polygons of the regions/islands used in the analyses as rdata files
-- DATA_ch1: link to files 
+- DATA_ch1: link to model output files 
   - Google Drive: https://drive.google.com/drive/folders/1_Wy2attrph8vo8hMS5tompfbRSF58xaY?usp=sharing
-- ROMS: The ROMS files can be found at the below website. For the years 2018-2021, you will need to contact PACIOOS.
+- ROMS (Regional Ocean Modeling System): The ROMS files can be found at the website below. For the years 2018-2021, you will need to contact PACIOOS directly. 
   - https://www.pacioos.hawaii.edu/data/search-results/?text=roms
