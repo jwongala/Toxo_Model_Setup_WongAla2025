@@ -1,4 +1,4 @@
-This repository contains the required scripts and data to run and analyze the output for the publication titled "Differences in connectivity and transport of Toxoplasma gondii in marine environments due to sensitivity in model setup"
+This repository contains the required scripts and data to run and analyze the output for the publication titled "Differences in connectivity and transport of Toxoplasma gondii in marine environments due to sensitivity in model setup". Feel free to email me at jennwongala@gmail.com if you'd like a copy of the publication. 
 
 The folders are:
 - SCRIPTS:
